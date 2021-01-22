@@ -53,7 +53,7 @@
   
   - ### Propotion
   
-    ![prop_1](images/propotions_1.png)
+    ![prop_1](images/propotion_1.png)
     ![prop_2](images/propotion_2.png)
     ![prop3](images/propotion_3.png)
     
