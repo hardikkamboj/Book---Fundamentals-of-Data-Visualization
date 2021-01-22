@@ -38,3 +38,34 @@
 
 ![polar coordinates](images/polar.svg)
   <br>
+  
+  
+  ## Directory of Visualization 
+  - ### Amount 
+    
+    ![amount_1](images/Amount_1.png)
+    ![amount_2](images/Amount_2.png)
+    
+  - ### Distributions 
+  
+    ![dist_1](images/distribution_1.png)
+    ![dist_2](images/Distribution_2.png)
+  
+  - ### Propotion
+  
+    ![prop_1](images/propotions_1.png)
+    ![prop_2](images/propotion_2.png)
+    ![prop3](images/propotion_3.png)
+    
+  - ### X-Y Relationship 
+    ![xy1](images/xy1.png)
+    ![xy2](images/xy2.png)
+    ![xy3](images/xy3.png)
+    
+  - ### Geopatial Data 
+    ![geopatial](images/geopatial.png)
+    
+  - ### Uncertainity 
+    ![un_1](images/un1.png)
+    ![un_2](images/un2.png)
+    ![un_3](images/un3.png)
