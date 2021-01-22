@@ -14,6 +14,7 @@
 
 ### Different types of coordinate systems 
 - Cartesian Coordinates 
+<br>
 
 ![catrtesian coordinates](images/cartesian.png)
   - The traditional x and y coordinate system. 
@@ -22,6 +23,7 @@
   <br>
   
 - Non linear axis
+<br>
 ![Non linear transformation](images/non_linear_transformation.jpeg)
   - We transform the value of a given axis, using functions like log, square root. 
   - This is useful to suite the graph according to the story, or when the range of the values of quite large. 
@@ -30,5 +32,6 @@
   
   
 - Coordinate System with cureved axis
+<br>
 ![polar coordinates](images/polar.svg)
   <br>
