@@ -13,7 +13,7 @@
 <br> <br> 
 
 ### Different types of coordinate systems 
-- Cartesian Coordinates 
+- ### Cartesian Coordinates 
 
 <br>
 
@@ -23,7 +23,7 @@
   
   <br>
   
-- Non linear axis
+- ### Non linear axis
 <br>
 
 ![Non linear transformation](images/non_linear_transformation.jpeg)
@@ -33,7 +33,7 @@
   <br>
   
   
-- Coordinate System with cureved axis
+- ### Coordinate System with cureved axis
 <br>
 
 ![polar coordinates](images/polar.svg)
