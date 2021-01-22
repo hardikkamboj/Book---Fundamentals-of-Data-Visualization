@@ -1,4 +1,4 @@
-# Book---Fundamentals-of-Data-Visualization
+# Data-Visualization
 
 ### Types of variables 
 |  Type  |  Scale  |  Example  |
